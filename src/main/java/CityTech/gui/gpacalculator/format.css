@@ -1,0 +1,22 @@
+.label, .button{
+    -fx-font-family: Calibri;
+    -fx-font-size: 20pt;
+}
+
+
+.textfield{
+    -fx-font-family: Calibri;
+    -fx-font-size: 20pt;
+}
+
+#lblHeading{
+    -fx-font-family: Calibri;
+    -fx-font-size: 36pt;
+}
+
+.message{
+    -fx-text-fill:rgb(68,114,196);
+    -fx-font-family: Calibri;
+    -fx-font-size: 11pt;
+    -fx-font-weight: bold;
+}
